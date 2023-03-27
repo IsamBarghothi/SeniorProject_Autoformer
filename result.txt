@@ -1,0 +1,30 @@
+ETTh1_96_24_Autoformer_ETTh1_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.38800889253616333, mae:0.4247802495956421
+
+ETTh1_96_24_Informer_ETTh1_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.6732537746429443, mae:0.614812970161438
+
+oil_14_1_Informer_custom_ftM_sl60_ll0_pl30_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1.844307541847229, mae:1.1752712726593018
+
+oil_14_1_Informer_custom_ftM_sl60_ll0_pl30_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1.8512287139892578, mae:1.1774797439575195
+
+oil_14_1_Informer_custom_ftM_sl60_ll0_pl30_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:14.806550979614258, mae:3.5299878120422363
+
+oil_14_1_Informer_custom_ftM_sl60_ll0_pl30_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:3.5299878120422363, mae:14.806550979614258
+
+00001_Informer_custom_ftM_sl60_ll0_pl30_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:2.041356086730957, mae:6.367508888244629
+
+00001_Informer_custom_ftM_sl60_ll0_pl30_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:1.7808592319488525, mae:4.082966327667236
+
+00001_Informer_custom_ftM_sl60_ll0_pl30_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.9031538367271423, mae:1.31365168094635
+
+00001_Informer_custom_ftM_sl60_ll0_pl30_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:2.3804116249084473, mae:11.6100492477417
+
